@@ -1,0 +1,9 @@
+[submodule "backend/rentCarWebService"]
+	path = backend/rentCarWebService
+	url = https://github.com/dev-jefferson/rentCarWebService
+[submodule "backend/rentCarConsumer"]
+	path = backend/rentCarConsumer
+	url = https://github.com/dev-jefferson/rentCarConsumer
+[submodule "frontend/rentCarWeb"]
+	path = frontend/rentCarWeb
+	url = https://github.com/dev-jefferson/rentCarWeb
